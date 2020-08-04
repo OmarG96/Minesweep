@@ -1,0 +1,13 @@
+.tile {
+  display: flex;
+  padding: 4px;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.tile.disabled {
+  cursor: default;
+}
