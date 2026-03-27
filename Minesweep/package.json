@@ -10,12 +10,12 @@
     "formik": "^2.1.5",
     "history": "^5.0.0",
     "history-prop-types": "^2.5.2",
-    "jest": "24.9.0",
+    "jest": "26.6.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "sass": "^1.26.10",
     "yup": "^0.29.2"
   },
@@ -43,6 +43,6 @@
   },
   "devDependencies": {
     "eslint-plugin-react": "^7.20.5",
-    "jest": "^26.2.2"
+    "jest": "^26.6.3"
   }
 }
